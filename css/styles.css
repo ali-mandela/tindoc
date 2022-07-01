@@ -1,0 +1,86 @@
+#title{
+  background-color: #ff4c68;
+}
+.xy{
+  padding:3% 15%;
+}
+h1{
+  font-family: Montserrat-black;
+  line-height: 1.5;
+  font-size: 9rem;
+}
+h2{
+  font-family: Montserrat-bold;
+  line-height: 1.5;
+  font-size: 3rem;
+}
+#features {
+  text-align: center;
+  padding: 5% 7%;
+}
+.fa-5x{
+  color: pink;
+}
+.fa-5x:hover{
+  color: red;
+}
+
+
+/* testimonial  */
+#testimonials {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+.testimonial-img{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+
+
+}
+
+/* Press */
+#press{
+  background-color: #ef8172;
+  padding-bottom: 3%;
+  text-align: center;
+}
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+/* Pricing */
+#pricing {
+  padding: 100px;
+  text-align:
+  center;
+}
+
+
+/* call to action  */
+#cta{
+  background-color: #ff4c68;
+  text-align:center;
+  padding: 5% 15%;
+}
+.cta-h3{
+  font-size: 4rem;
+  font-family: Montserrat-bold;
+}
+.cta-btn{
+  margin-top: 10px;
+}
+
+/* footer */
+
+#footer{
+  text-align: center;
+  padding: 7% 7% 1%;
+  background-color: #fff;
+}
+.footer-a{
+  padding: 0px 6px;
+}
